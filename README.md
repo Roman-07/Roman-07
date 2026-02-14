@@ -1,7 +1,6 @@
 # Hi, I'm Roman
 
-First-year Mathematics & Computer Science student at Imperial College London.  
-Interested in ML, systems, and data-driven projects.
+First-year Mathematics and Computer Science student at Imperial College London.  
 
 ## Tech Stack
 - Languages: Python, Kotlin, Java, Haskell, SQL
