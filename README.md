@@ -8,5 +8,5 @@ Interested in ML, systems, and data-driven projects.
 - Interests: ML, data science, automation
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/<...>
-- Email: <...>
+- LinkedIn: https://www.linkedin.com/in/
+- Email: roman.kirkorov25@imperial.ac.uk
